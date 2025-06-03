@@ -42,7 +42,7 @@ Assignments introduced me to JavaScript and MySQL, and now I'm exploring how to 
   <a href="https://github.com/shirlingggg">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shirleen-kabunyi-baa798310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
+  <a href="https://www.linkedin.com/in/shirleen-k-baa798310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
