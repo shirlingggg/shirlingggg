@@ -23,7 +23,6 @@ My current journey includes responsive UI design, dynamic web apps, and **Androi
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -42,7 +41,7 @@ My current journey includes responsive UI design, dynamic web apps, and **Androi
 - 📱 **Mobile app development with Kotlin & Android Studio**  
 - 🌐 **Full-stack projects** combining Django + MySQL backend with modern frontend  
 - 🎨 Responsive layouts & component libraries (CSS, Bootstrap)  
-- 🔍 JavaScript DOM manipulation and interactive web features  
+
 
 
 ## 🌐 Let’s Connect
